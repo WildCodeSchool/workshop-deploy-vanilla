@@ -1,5 +1,7 @@
 # Deploying vanilla files with GitHub Pages
 
+[⬅ English version](./)
+
 Why GitHub Pages? Well, quality hosting is often not free. GitHub Pages offers a decent service free of charge.
 {:.alert-info}
 

@@ -1,5 +1,7 @@
 # Déployer des fichiers classiques avec GitHub Pages
 
+[⬅ Version FR](./README-FR)
+
 Pourquoi GitHub Pages ? Et bien les hébergements de qualité sont souvent payants. GitHub Pages propose un service correct gratuitement.
 {:.alert-info}
 
