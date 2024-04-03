@@ -11,7 +11,7 @@ defaults:
 
 style: dev
 title: Deploy 01 - Vanilla
-description: "How to deploy a vanilla sites with the base code hosted on GitHub."
+description: "How to deploy vanilla sites with the base code hosted on GitHub."
 show_clone: false
 show_toc: true
 lang: en
